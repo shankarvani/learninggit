@@ -2,5 +2,7 @@ git clone -b branchname(devops1) giturl
 cd foldername(project name)
 git status(checking the status of files)
 git add *(edited files to added)
-git pull
+git commit -m "message"
+git config -- user.name shankarvani
 git push
+
