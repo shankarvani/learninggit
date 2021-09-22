@@ -1,1 +1,3 @@
 welcome devops
+
+1.CI/CD with jenkins
