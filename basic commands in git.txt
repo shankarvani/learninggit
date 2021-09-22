@@ -11,5 +11,8 @@ git init-->git status---->git add--->git commit--->git pull---->
                                                        |conflict(y/n)yes---->u have modifiy changes in the file and u should again add and commit
 ----->push
 u shd always take pull whenever u open cmd.
+
 source tree downloaded
 git stash
+git staging area
+
