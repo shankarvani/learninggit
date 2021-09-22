@@ -1,10 +1,12 @@
 git clone -b branchname(devops1) giturl
 cd foldername(project name)
+git init
 git status(checking the status of files)
 git add *(edited files to added)
 git add a (particular file Name)
 git commit -m "message"
 git config -- user.name shankarvani
+git diff
 git push
 git init-->git status---->git add--->git commit--->git pull---->
                                                        |conflict(y/n)yes---->u have modifiy changes in the file and u should again add and commit
