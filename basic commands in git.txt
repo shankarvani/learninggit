@@ -12,3 +12,4 @@ git init-->git status---->git add--->git commit--->git pull---->
 ----->push
 u shd always take pull whenever u open cmd.
 source tree downloaded
+git stash
